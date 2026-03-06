@@ -1,0 +1,28 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="36" fill="#F4F6F4"/>
+  <path d="M0 236C27 211 70 190 130 178C180 168 221 157 256 131V236H0Z" fill="url(#road)"/>
+  <path d="M82 236C95 214 117 196 145 184C174 173 207 161 236 143" stroke="#F4F6F4" stroke-width="12" stroke-linecap="round"/>
+  <path d="M131 55C131 33.4609 148.461 16 170 16C191.539 16 209 33.4609 209 55C209 76.5391 191.539 94 170 94C148.461 94 131 76.5391 131 55Z" stroke="#587B66" stroke-width="6"/>
+  <circle cx="184.5" cy="42.5" r="4.5" fill="#587B66"/>
+  <path d="M151 93C136 97 125 108 120 125C116 137 122 148 134 150C148 152 156 143 159 131" stroke="#587B66" stroke-width="6" stroke-linecap="round"/>
+  <path d="M155 97C168 92 181 95 189 105C194 111 196 120 206 123C214 126 220 134 220 143C220 153 213 160 203 160C198 160 193 158 190 154L174 138C167 131 160 123 157 113L155 97Z" stroke="#587B66" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M141 149L122 171C118 176 113 180 107 180C96 180 89 168 95 159L115 131" stroke="#587B66" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M166 142L183 163C188 169 196 173 204 173C216 173 223 159 216 149L198 123" stroke="#587B66" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="110" y="84" width="34" height="46" rx="10" transform="rotate(13 110 84)" fill="url(#bag)" stroke="#587B66" stroke-width="6"/>
+  <path d="M118 94L108 125" stroke="#CBECC0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M118 110L131 114" stroke="#CBECC0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M33 103L38 90L43 103L56 108L43 113L38 126L33 113L20 108L33 103Z" fill="#8FD190"/>
+  <path d="M210 56L214 47L218 56L227 60L218 64L214 73L210 64L201 60L210 56Z" fill="#8ED0E0"/>
+  <path d="M241 147L245 137L249 147L259 151L249 155L245 165L241 155L231 151L241 147Z" fill="#8FD190"/>
+  <path d="M22 131L25 123L28 131L36 134L28 137L25 145L22 137L14 134L22 131Z" fill="#8ED0E0"/>
+  <defs>
+    <linearGradient id="road" x1="0" y1="183" x2="256" y2="183" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A8D8AF"/>
+      <stop offset="1" stop-color="#89C999"/>
+    </linearGradient>
+    <linearGradient id="bag" x1="110" y1="84" x2="144" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A5DB9E"/>
+      <stop offset="1" stop-color="#8FCC85"/>
+    </linearGradient>
+  </defs>
+</svg>
