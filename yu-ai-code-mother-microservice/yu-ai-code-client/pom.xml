@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.yupi</groupId>
-        <artifactId>yu-ai-code-mother-microservice</artifactId>
+        <artifactId>babystep-ai-code-mother-microservice</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 

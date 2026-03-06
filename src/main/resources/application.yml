@@ -1,6 +1,6 @@
 spring:
   application:
-    name: yu-ai-code-mother-backend
+    name: babystep-ai-code-mother-backend
   # session 配置
   session:
     store-type: redis

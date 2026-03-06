@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yupi</groupId>
-    <artifactId>yu-ai-code-mother</artifactId>
+    <artifactId>babystep-ai-code-mother</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>yu-ai-code-mother</name>
-    <description>yu-ai-code-mother</description>
+    <name>babystep-ai-code-mother</name>
+    <description>babystep-ai-code-mother</description>
     <url/>
     <licenses>
         <license/>
